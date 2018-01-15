@@ -1,2 +1,4 @@
 # hello-world
-new repe
+new repo
+
+This is me typing stuff about me.  Just doing tut things
